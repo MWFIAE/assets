@@ -1,0 +1,41 @@
+{
+    "type": "ESDT",
+    "id": "CGO-5e9528",
+    "name": "Cathena Gold",
+    "symbol": "CGO",
+    "decimals": 18,
+    "status": "active",
+    "description": "Cathena Gold is the main driving factor and in-game currency for Knights of Cathena. Use it to collect NFT, increase your armies strength and raise in the ranks.",
+    "website": "https://knights-of-cathena.com",
+    "explorer": "https://explorer.multiversx.com/tokens/ITHEUM-5e9528",
+    "links": [
+        {
+            "name": "blog",
+            "url": "https://knights-of-cathena.com/blog"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CathenaKnights"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fivefingergames"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/KnightsOfCathenaAnn"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/r8BwB8UaWx"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/@KnightsOfCathena"
+        }
+    ],
+    "tags": [
+        "nft",
+        "gamefi"
+    ]
+}
